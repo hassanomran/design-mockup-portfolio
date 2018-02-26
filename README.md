@@ -2,7 +2,7 @@
 ## udacity project FRONT-END WEB DEVELOPER NANODGREE
 ### Responsive design 
 #### All content is responsive and displays on all display sizes. This includes:
-⋅⋅* Desktop
-⋅⋅* Mobile: Google Nexus 5
-⋅⋅* Tablet: Apple iPad
-⋅⋅* Unordered sub-list.
+1. Desktop
+2. Mobile: Google Nexus 5
+3. Tablet: Apple iPad
+
